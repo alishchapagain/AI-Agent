@@ -12,7 +12,7 @@ print(len(collection))
 #empty set
 collection1={} #this is dict not set
 #correct way to create empty set
-collection2 = set() #enpty set
+collection2 = set() #empty set
 
 print(type(collection1))
 print(type(collection2))
